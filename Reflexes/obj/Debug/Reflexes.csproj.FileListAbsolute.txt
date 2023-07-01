@@ -1,0 +1,10 @@
+C:\Users\g023g1246\Desktop\DxLibProjects\Reflexes\bin\Debug\DxLibW.dll
+C:\Users\g023g1246\Desktop\DxLibProjects\Reflexes\bin\Debug\DxLibW_x64.dll
+C:\Users\g023g1246\Desktop\DxLibProjects\Reflexes\bin\Debug\Reflexes.exe.config
+C:\Users\g023g1246\Desktop\DxLibProjects\Reflexes\bin\Debug\Reflexes.exe
+C:\Users\g023g1246\Desktop\DxLibProjects\Reflexes\bin\Debug\Reflexes.pdb
+C:\Users\g023g1246\Desktop\DxLibProjects\Reflexes\obj\Debug\Reflexes.csproj.AssemblyReference.cache
+C:\Users\g023g1246\Desktop\DxLibProjects\Reflexes\obj\Debug\Reflexes.csproj.SuggestedBindingRedirects.cache
+C:\Users\g023g1246\Desktop\DxLibProjects\Reflexes\obj\Debug\Reflexes.csproj.CoreCompileInputs.cache
+C:\Users\g023g1246\Desktop\DxLibProjects\Reflexes\obj\Debug\Reflexes.exe
+C:\Users\g023g1246\Desktop\DxLibProjects\Reflexes\obj\Debug\Reflexes.pdb
